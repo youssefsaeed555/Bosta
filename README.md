@@ -16,7 +16,7 @@ This project is a React web application that mimics the Bosta shipment tracking 
 
 ## Installation
 - git clone https://github.com/youssefsaeed555/Bosta/
-- cd Natiq
+- cd Bosta
 - npm install
 - npm run dev
 - Open your web browser and visit http://localhost:5173/
